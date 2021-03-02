@@ -1,4 +1,4 @@
-# wx-element。
+# wx-element.
 
 > A Vue.js project
 
